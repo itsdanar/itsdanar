@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **janardanamahardika@gmail.com**
 
-- ⚡ Fun fact **I like to play video games, im a casual gamer usually playing games like Valorant, League of Legends, Zenless Zone Zero, Wutering Waves, Elden Ring, Sekiro, Monster Hunter, etc**
+- ⚡ Fun fact **I like to play video games, im a casual gamer usually playing games like Valorant, League of Legends, Zenless Zone Zero, Wuthering Waves, Elden Ring, Sekiro, Monster Hunter, etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
