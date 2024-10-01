@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Putu Danar</h1>
 <h3 align="center">An undergraduate student from Udayana University majoring Information Technology</h3>
 
-- 🌱 I’m currently learning **Laravel, Java, CSS, HTML, Javascript, C, C++, php, mysql**
+- 🌱 I’m currently learning **Laravel, Java, CSS, HTML, Javascript, C, C++, php, mysql, etc**
 
 - 📫 How to reach me **janardanamahardika@gmail.com**
 
-- ⚡ Fun fact **I like to play video games, im a casual gamer usually playing games like Valorant, League of Legends, Zenless Zone Zero, Wuthering Waves, Elden Ring, Sekiro, Monster Hunter, etc**
+- ⚡ Fun fact **I like to play video games, i'm a casual gamer usually playing games like Valorant, League of Legends, Zenless Zone Zero, Wuthering Waves, Elden Ring, Sekiro, Monster Hunter, etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
